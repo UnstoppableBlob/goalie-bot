@@ -1,0 +1,1 @@
+i got the a4988 pinout from Circuit Digest, and the Pico W pinout from picow.pinout.xyz
